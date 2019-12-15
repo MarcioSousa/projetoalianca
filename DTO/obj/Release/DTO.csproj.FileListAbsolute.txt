@@ -1,0 +1,5 @@
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\VoluntarioAlianca\DTO\bin\Release\DTO.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\VoluntarioAlianca\DTO\bin\Release\DTO.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\VoluntarioAlianca\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\VoluntarioAlianca\DTO\obj\Release\DTO.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\VoluntarioAlianca\DTO\obj\Release\DTO.pdb

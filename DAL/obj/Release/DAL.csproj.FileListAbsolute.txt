@@ -1,0 +1,6 @@
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\VoluntarioAlianca\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\VoluntarioAlianca\DAL\obj\Release\DAL.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\VoluntarioAlianca\DAL\obj\Release\DAL.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\VoluntarioAlianca\DAL\bin\Release\DAL.dll.config
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\VoluntarioAlianca\DAL\bin\Release\DAL.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\VoluntarioAlianca\DAL\bin\Release\DAL.pdb
